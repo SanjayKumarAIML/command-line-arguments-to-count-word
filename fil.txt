@@ -1,0 +1,7 @@
+A text file can be understood as a sequence of characters consisting of alphabets, numbers and other special symbols. 
+Files with extensions like .txt, .py, .csv, etc. are some examples of text files. 
+When we open a text file using a text editor (e.g., Notepad), we see several lines of text. 
+However, the file contents are not stored in such a way internally. 
+Rather, they are stored in sequence of bytes consisting of 0s and 1s.
+In a text file, each line of data ends with a newline character. 
+Each file ends with a special character called the end-of-file (EOF) marker.
